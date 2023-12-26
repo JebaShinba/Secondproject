@@ -1,6 +1,6 @@
 fn main() {
    let company_string = "TutorialsPoint";  // string type
-   let rating_float = 4.6;                 // float type
+   let rating_float = 4.8;                 // float type
    let is_growing_boolean = true;          // boolean type
    let icon_char = '♥';                    //unicode character type
 
