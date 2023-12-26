@@ -1,0 +1,2 @@
+Rust program files have an extension .rs. The above command creates an empty file Hello.rs and opens it in NOTEpad. Add the code given below to this file 
+The above program defines a function main fn main(). The fn keyword is used to define a function. The main() is a predefined function that acts as an entry point to the program. println! is a predefined macro in Rust. It is used to print a string (here Hello) to the console. Macro calls are always marked with an exclamation mark – !.
